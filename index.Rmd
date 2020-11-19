@@ -12,6 +12,6 @@ This data comes from [this repo](https://github.com/alex/nyt-2020-election-scrap
 
 Here is what the result looked like at the end of the vote tallies.
 
-```{r}
+```{r fig.width=6, fig.height=8}
 vote_diff_plot
 ```
